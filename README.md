@@ -16,4 +16,4 @@ added2 paragraphs of text describing evening of day 1
 <br>
 <br>
 <h1> Chapter 1 finished </h1>
-[chapter1](chapter1.html)
+[Chapter1](Chapter1.html)
