@@ -19,8 +19,11 @@ added a paragraph of text describing mid day od day 1
 Version 0.5
 added chapter 2, and headings. Changed chapter 1 sub-title 
 
-Version0.6
+Version 0.6
 added 2 paragraphs of text to chapter 2, describing morning of day 2
+
+Version 0.7
+added 2 paragraphs of text descriing morning and mid-day of day 2
 
 <br>
 <br>
