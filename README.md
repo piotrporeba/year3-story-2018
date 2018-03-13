@@ -49,6 +49,9 @@ Added Alternative ending for chapter 3 (alternative branch)
 Version 1.5
 Added 2 paragraphs of text to the alternative ending of chapter 3
 
+Version 1.6
+fixed typo in chapter 3 alternative ending
+
 <br>
 <br>
 <h1> Chapter 1 finished </h1>
