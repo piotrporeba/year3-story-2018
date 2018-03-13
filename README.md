@@ -70,5 +70,5 @@ Added link for chapter 3 alternative_ending
 [Chapter3](Chapter3.html)
 <br>
 <h1> Chapter 3 alternative_ending finished</h1>
-[Chapter3](Chapter3 alternative_ending.html)
+[Chapter3 ALternati](Chapter3alternative_ending.html)
 
