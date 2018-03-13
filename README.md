@@ -34,6 +34,9 @@ Updated link for chapter 2 and added Chapter 3 and 2 headings
 Version 1.0
 Added 3 paragraphs of text describing morning of day 3 in Chapter 3
 
+Version 1.1
+Added 2 paragraphs of text describing morning of day 3 in chapter 3
+
 <br>
 <br>
 <h1> Chapter 1 finished </h1>
