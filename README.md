@@ -55,6 +55,9 @@ fixed typo in chapter 3 alternative ending
 Version 1.7
 modified paragraph of text and added one paragraph of text to chapter 3 alternative ending
 
+Version 1.8
+Added link for chapter 3 alternative_ending
+
 <br>
 <br>
 <h1> Chapter 1 finished </h1>
@@ -65,4 +68,7 @@ modified paragraph of text and added one paragraph of text to chapter 3 alternat
 <br>
 <h1> Chapter 3 finished</h1>
 [Chapter3](Chapter3.html)
+<br>
+<h1> Chapter 3 alternative_ending finished</h1>
+[Chapter3](Chapter3 alternative_ending.html)
 
