@@ -25,6 +25,9 @@ added 2 paragraphs of text to chapter 2, describing morning of day 2
 Version 0.7
 added 2 paragraphs of text descriing morning and mid-day of day 2
 
+Version 0.8
+Added 1 paragraph of text to chapter 2, describing evening of day 2
+
 <br>
 <br>
 <h1> Chapter 1 finished </h1>
