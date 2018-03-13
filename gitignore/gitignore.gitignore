@@ -20,3 +20,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# my files not to be tracked
+ideas.txt
