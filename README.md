@@ -4,6 +4,10 @@ https://piotrporeba.github.io/year3-story-2018/
 
 .. Piotr Poreba ...
 
+alternative ending part...
+https://github.com/piotrporeba/year3-story-2018/tree/alternative_ending
+
+
 Version 0.1 
 added chapter 1 headings and one paragraph of text
 
