@@ -40,6 +40,9 @@ Added 2 paragraphs of text describing morning of day 3 in chapter 3
 Version 1.2
 Added 3 paragraphs of text describing midday and evening of day 3 in chapter 3
 
+Version 1.3
+Added link for chapter 3
+
 <br>
 <br>
 <h1> Chapter 1 finished </h1>
@@ -47,4 +50,7 @@ Added 3 paragraphs of text describing midday and evening of day 3 in chapter 3
 <br>
 <h1> Chapter 2 finished</h1>
 [Chapter2](Chapter2.html)
+<br>
+<h1> Chapter 3 finished</h1>
+[Chapter3](Chapter3.html)
 
