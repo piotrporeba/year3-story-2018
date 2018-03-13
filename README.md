@@ -43,6 +43,9 @@ Added 3 paragraphs of text describing midday and evening of day 3 in chapter 3
 Version 1.3
 Added link for chapter 3
 
+Version 1.4
+Added links on each chapter to go 1 chapter forward and back
+
 <br>
 <br>
 <h1> Chapter 1 finished </h1>

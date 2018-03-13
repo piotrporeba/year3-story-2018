@@ -1,0 +1,5 @@
+checking if ideas txt is being tracked
+
+this file is not being tracked!
+
+this is alternative ending update to this file!!
