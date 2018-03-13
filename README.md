@@ -16,6 +16,9 @@ added2 paragraphs of text describing evening of day 1
 Version 0.4
 added a paragraph of text describing mid day od day 1
 
+Version 0.5
+added chapter 2, and headings. Changed chapter 1 sub-title 
+
 <br>
 <br>
 <h1> Chapter 1 finished </h1>
